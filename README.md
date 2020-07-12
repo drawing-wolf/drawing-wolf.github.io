@@ -1,4 +1,3 @@
 # drawing-wolf.github.io
 
-
-open: https://github.io/drawing-wolf
+open: https://drawing-wolf.github.io/
