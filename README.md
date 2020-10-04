@@ -1,3 +1,3 @@
 # scribble-project.github.io
 
-open: https://drawing-wolf.github.io/
+open: https://scribble-project.github.io/
